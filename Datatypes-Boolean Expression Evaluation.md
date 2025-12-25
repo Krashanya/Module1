@@ -28,7 +28,7 @@ print('c:',c)
 print('d:',d)
 
 ## Output
-<img width="552" height="388" alt="image" src="https://github.com/user-attachments/assets/eebf6beb-837d-4a57-94b9-7c106459b4a4" />
+<img width="342" height="260" alt="image" src="https://github.com/user-attachments/assets/54bc5fb8-bb6e-4991-947b-d762498ebd7a" />
 
 ## Result
 Thus the Python program that evaluates and prints the results of boolean and arithmetic expressions involving `True` and `False` is obtained.
