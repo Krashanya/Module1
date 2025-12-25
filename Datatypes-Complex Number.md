@@ -11,7 +11,16 @@ To write a Python program that reads two integers, creates a complex number usin
 5. Print the real part of complex_num.
 
 ## 💻 Program
-<img width="425" height="125" alt="image" src="https://github.com/user-attachments/assets/2b8bc5ac-468a-44eb-8380-079da122f69d" />
+real=float(input())
+
+imaginary=float(input())
+
+complex_num=complex(real,imaginary)
+
+print(complex_num)
+
+print(real)
+
 
 ## Output
 <img width="355" height="240" alt="image" src="https://github.com/user-attachments/assets/7d7e0724-3f16-4037-90f0-8a8a1748bb2e" />
