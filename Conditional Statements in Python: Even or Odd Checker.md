@@ -11,10 +11,12 @@ Write a Python program to check whether the grade is A grade using simple if sta
 grade=str(input())
 
 if grade=="A":
-    print("Yes,The grade is 'A'")
+    
+  print("Yes,The grade is 'A'")
 
 else:
-    print('')
+ 
+  print('')
 
 ## Output
 <img width="544" height="198" alt="image" src="https://github.com/user-attachments/assets/ea632918-e8f6-4431-a4bc-65251e9d8ed4" />
