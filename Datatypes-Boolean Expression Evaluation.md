@@ -21,10 +21,10 @@ b = (5== False)
 
 c = True + 54
 
-d = False + 7
-print('a is',a)
-print('b is',b)
-print('c:',c)
+d = False + 7 \n
+print('a is',a) \n
+print('b is',b) \n
+print('c:',c) \n
 print('d:',d)
 
 ## Output
