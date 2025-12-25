@@ -11,11 +11,9 @@ Write a Python program to check whether the grade is A grade using simple if sta
 grade=str(input())
 
 if grade=="A":
-    
     print("Yes,The grade is 'A'")
 
 else:
-    
     print('')
 
 ## Output
