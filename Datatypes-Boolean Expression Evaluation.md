@@ -24,8 +24,11 @@ c = True + 5
 d = False + 9
  
 print("a is", a)
+
 print("b is", b)
+
 print("c:", c)
+
 print("d:", d)
 
 '''
